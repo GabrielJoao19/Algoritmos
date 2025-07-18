@@ -1,6 +1,3 @@
-# Fluxograma da Busca Linear Iterativa
-
-```mermaid
 graph TD
     A[Início] --> B{Para cada elemento no array, do primeiro ao último};
     B --> C{Elemento atual é igual à chave?};
